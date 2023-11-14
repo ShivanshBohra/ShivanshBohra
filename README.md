@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshbohra&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshbohra" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-shivansh.netlify.app/](https://portfolio-shivansh.netlify.app/)
+- 👨‍💻 My Portfolio [https://portfolio-shivansh.netlify.app/](https://portfolio-shivansh.netlify.app/)
 
 - 💬 Ask me about **Balancing work and life in the tech industry.**
 
